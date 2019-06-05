@@ -85,7 +85,7 @@ distribute_crawler
 * 打开http://127.0.0.1/ 通过图表查看spider实时状态信息
 * 要想尝试分布式，可以在另外一个目录运行此工程
 
-#mongodb
+# mongodb
 * 安装scrapy
 * 安装redispy
 * 安装pymongo
